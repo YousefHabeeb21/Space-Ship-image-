@@ -1,2 +1,2 @@
 # Space-Ship-image-
-using Turtle graphics, an image of a spaceship is drawn.
+Using Python Turtle graphics, an image of a spaceship is drawn.
